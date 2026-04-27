@@ -65,7 +65,7 @@
         <mxCell id="xzsG8LSJScld3NNULDqj-21" value="事务内发布" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="570" y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xzsG8LSJScld3NNULDqj-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xzsG8LSJScld3NNULDqj-23" value="死信交换机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xzsG8LSJScld3NNULDqj-24" value="notification.queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
