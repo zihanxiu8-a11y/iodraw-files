@@ -90,8 +90,8 @@
         <mxCell id="xzsG8LSJScld3NNULDqj-32" value="死信队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xzsG8LSJScld3NNULDqj-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="xzsG8LSJScld3NNULDqj-33" value="通知消费者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
