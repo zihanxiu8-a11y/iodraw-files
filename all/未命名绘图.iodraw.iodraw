@@ -56,7 +56,7 @@
         <mxCell id="xzsG8LSJScld3NNULDqj-8" value="注册事物回调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xzsG8LSJScld3NNULDqj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xzsG8LSJScld3NNULDqj-17" target="xzsG8LSJScld3NNULDqj-23">
+        <mxCell id="xzsG8LSJScld3NNULDqj-27" value="异常" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xzsG8LSJScld3NNULDqj-17" target="xzsG8LSJScld3NNULDqj-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzsG8LSJScld3NNULDqj-17" value="domain.event.exchange" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
