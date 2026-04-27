@@ -119,7 +119,7 @@
         <mxCell id="xzsG8LSJScld3NNULDqj-41" value="幂等表检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xzsG8LSJScld3NNULDqj-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xzsG8LSJScld3NNULDqj-42" value="发送WebSocket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xzsG8LSJScld3NNULDqj-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
