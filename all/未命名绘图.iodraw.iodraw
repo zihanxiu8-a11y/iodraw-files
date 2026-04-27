@@ -63,7 +63,7 @@
           <mxGeometry x="415" y="440" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xzsG8LSJScld3NNULDqj-23" value="死信交换机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xzsG8LSJScld3NNULDqj-24" value="notification.queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="530" width="120" height="60" as="geometry" />
