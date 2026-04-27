@@ -42,7 +42,7 @@
           <mxGeometry x="420" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xzsG8LSJScld3NNULDqj-7" value="写入Outbox PENDING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="290" width="130" height="60" as="geometry" />
+          <mxGeometry x="415" y="270" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xzsG8LSJScld3NNULDqj-8" value="注册事物回调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
