@@ -22,6 +22,11 @@
         <mxCell id="xzsG8LSJScld3NNULDqj-6" value="构造事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xzsG8LSJScld3NNULDqj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xzsG8LSJScld3NNULDqj-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="320.1379310344828" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xzsG8LSJScld3NNULDqj-7" value="写入Outbox PENDING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="290" width="120" height="60" as="geometry" />
         </mxCell>
