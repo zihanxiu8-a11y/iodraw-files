@@ -73,8 +73,14 @@
         <mxCell id="xzsG8LSJScld3NNULDqj-23" value="死信交换机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xzsG8LSJScld3NNULDqj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xzsG8LSJScld3NNULDqj-24" target="xzsG8LSJScld3NNULDqj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xzsG8LSJScld3NNULDqj-24" value="notification.queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzsG8LSJScld3NNULDqj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xzsG8LSJScld3NNULDqj-25" target="xzsG8LSJScld3NNULDqj-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzsG8LSJScld3NNULDqj-25" value="recommendation.queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="540" width="130" height="60" as="geometry" />
